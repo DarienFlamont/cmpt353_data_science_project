@@ -1,0 +1,4 @@
+Required libraries for running the code:  Pandas, Numpy, Matplotlib, Scipy.stats, sklearn
+Running the code: We have created a single script that will run each of the individual files we have worked on.  It is called project_run.py and will clean the data,
+run statistics on critic and audience scores between different genres, and train learning models to try and predict the rating of a movie based on genre and cast members.
+Files produced: You should receive a terminal output of the stats and machine learning techniques as well as a few histogram plots that determine normalcy?????
